@@ -1,0 +1,871 @@
+{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--12a0574f-02bb-4503-847f-6f00893cbc28",
+    "created": "2021-08-20T06:22:18.548673Z",
+    "modified": "2021-08-20T06:22:18.548673Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <html lang=\"en\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--427c7f12-38c7-4645-aea4-3538fd32355d",
+    "created": "2021-08-20T06:22:18.549213Z",
+    "modified": "2021-08-20T06:22:18.549213Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <head>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8b78905e-3159-46a1-a752-56e778dce56d",
+    "created": "2021-08-20T06:22:18.549567Z",
+    "modified": "2021-08-20T06:22:18.549567Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <title>Connection denied by Geolocation</title>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9f5d4fab-cff4-46b9-8371-2933eecb2887",
+    "created": "2021-08-20T06:22:18.54992Z",
+    "modified": "2021-08-20T06:22:18.54992Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <style type=\"text/css\">]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d79359c1-1bde-4ba1-af36-cac7955df1cc",
+    "created": "2021-08-20T06:22:18.550261Z",
+    "modified": "2021-08-20T06:22:18.550261Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = body {]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d66a61fb-880e-474e-962f-a868131eccdb",
+    "created": "2021-08-20T06:22:18.550599Z",
+    "modified": "2021-08-20T06:22:18.550599Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = font-family: Arial, Helvetica, Verdana, Sans-Serif;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a4d54597-541c-47df-a12d-17e62478c408",
+    "created": "2021-08-20T06:22:18.550927Z",
+    "modified": "2021-08-20T06:22:18.550927Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = font-size: small;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b343cad0-b014-4718-877d-31b970646db9",
+    "created": "2021-08-20T06:22:18.551274Z",
+    "modified": "2021-08-20T06:22:18.551274Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = font-weight: normal;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5a23a04a-1e4d-4f5d-b849-e0613d599d42",
+    "created": "2021-08-20T06:22:18.551661Z",
+    "modified": "2021-08-20T06:22:18.551661Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = color: #000000;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--310a18dc-8404-4705-a6b6-bc0c227dbe9d",
+    "created": "2021-08-20T06:22:18.552022Z",
+    "modified": "2021-08-20T06:22:18.552022Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = }]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--675a582e-655b-42c4-8fa2-1f714ad61b45",
+    "created": "2021-08-20T06:22:18.552375Z",
+    "modified": "2021-08-20T06:22:18.552375Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = div {]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--6c9eb709-d966-469c-8a31-fa6703fc4708",
+    "created": "2021-08-20T06:22:18.552764Z",
+    "modified": "2021-08-20T06:22:18.552764Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = margin-left: auto;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1dd0be5c-4f51-4a45-bcba-e3e773b57659",
+    "created": "2021-08-20T06:22:18.553097Z",
+    "modified": "2021-08-20T06:22:18.553097Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = margin-right: auto;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--746a8982-c3d6-459e-b585-11e275a547a2",
+    "created": "2021-08-20T06:22:18.553421Z",
+    "modified": "2021-08-20T06:22:18.553421Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = text-align: center;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0dce323c-59ee-4f2b-9ece-07b9388a4348",
+    "created": "2021-08-20T06:22:18.55388Z",
+    "modified": "2021-08-20T06:22:18.55388Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = }]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--55562df0-ef72-4bed-90d6-0ae7fe6d5bb8",
+    "created": "2021-08-20T06:22:18.554215Z",
+    "modified": "2021-08-20T06:22:18.554215Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = .box {]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--cb994be9-ee7f-4dcf-ab3f-44fa11a669de",
+    "created": "2021-08-20T06:22:18.554563Z",
+    "modified": "2021-08-20T06:22:18.554563Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = width: 601px;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a2943fd9-fc43-46b5-a99e-ff69df613f83",
+    "created": "2021-08-20T06:22:18.554909Z",
+    "modified": "2021-08-20T06:22:18.554909Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = background-color: #F2F2F2;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d0140481-bd6f-497d-a566-c5c915f49d89",
+    "created": "2021-08-20T06:22:18.555245Z",
+    "modified": "2021-08-20T06:22:18.555245Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = border-left: solid 1px #C2C2C2;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--30838742-1452-464d-b087-94955cec5337",
+    "created": "2021-08-20T06:22:18.55557Z",
+    "modified": "2021-08-20T06:22:18.55557Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = border-right: solid 1px #C2C2C2;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d212cdea-b4bf-46aa-a7cc-8164ddfb139f",
+    "created": "2021-08-20T06:22:18.555906Z",
+    "modified": "2021-08-20T06:22:18.555906Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = vertical-align: middle;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ca9cafbb-ccbe-4dbb-b9d6-fbc76adac68a",
+    "created": "2021-08-20T06:22:18.556282Z",
+    "modified": "2021-08-20T06:22:18.556282Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = padding: 20px 10px 20px 10px;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b0713168-61c5-4de4-af03-31e1eba0592c",
+    "created": "2021-08-20T06:22:18.556632Z",
+    "modified": "2021-08-20T06:22:18.556632Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = }]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--2e56bf4b-f478-4a5a-a613-8803eee91be4",
+    "created": "2021-08-20T06:22:18.556969Z",
+    "modified": "2021-08-20T06:22:18.556969Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = p {]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--80777f75-7c52-47cd-bf6c-56505794bbc3",
+    "created": "2021-08-20T06:22:18.557304Z",
+    "modified": "2021-08-20T06:22:18.557304Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = text-align: left;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--002c9fb6-d1f5-426b-bdfa-eb4921a56b2d",
+    "created": "2021-08-20T06:22:18.557636Z",
+    "modified": "2021-08-20T06:22:18.557636Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = }]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b7310bae-8f0d-4c52-b561-119f26ebea79",
+    "created": "2021-08-20T06:22:18.557976Z",
+    "modified": "2021-08-20T06:22:18.557976Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = .red {]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--790ebe41-9ce5-45e4-96d8-893c759fb441",
+    "created": "2021-08-20T06:22:18.55845Z",
+    "modified": "2021-08-20T06:22:18.55845Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = font-weight: bold;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--75d630ca-ce2b-4e83-b084-9f95c73645f6",
+    "created": "2021-08-20T06:22:18.5588Z",
+    "modified": "2021-08-20T06:22:18.5588Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = color: Red;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--dda7da7c-c66c-4c47-bf7b-201f21254381",
+    "created": "2021-08-20T06:22:18.559137Z",
+    "modified": "2021-08-20T06:22:18.559137Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = text-align: center;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--80d15935-0ec3-4e79-8066-4557fde8e8ee",
+    "created": "2021-08-20T06:22:18.559483Z",
+    "modified": "2021-08-20T06:22:18.559483Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = }]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e59af150-c474-4ace-80e5-99fc8a0a0fb7",
+    "created": "2021-08-20T06:22:18.559813Z",
+    "modified": "2021-08-20T06:22:18.559813Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = .band {]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--6a0fa6e9-ea61-4869-8846-eb6f48d7daac",
+    "created": "2021-08-20T06:22:18.560191Z",
+    "modified": "2021-08-20T06:22:18.560191Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = height: 20px;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9f5adc3f-b581-4661-ac5b-f89568b76627",
+    "created": "2021-08-20T06:22:18.560526Z",
+    "modified": "2021-08-20T06:22:18.560526Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = color: White;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c2d5c17a-887e-4de2-893f-c2389cb35929",
+    "created": "2021-08-20T06:22:18.560853Z",
+    "modified": "2021-08-20T06:22:18.560853Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = background: #333333;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b1572846-3797-4979-99f8-f008069261de",
+    "created": "2021-08-20T06:22:18.561194Z",
+    "modified": "2021-08-20T06:22:18.561194Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = width: 600px;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5d947c68-e0a7-4f91-a97a-3eb4c44a91c0",
+    "created": "2021-08-20T06:22:18.561521Z",
+    "modified": "2021-08-20T06:22:18.561521Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = border-left: solid 1px #333333;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8883b863-b74e-4b1a-a777-1206c947e0c9",
+    "created": "2021-08-20T06:22:18.561842Z",
+    "modified": "2021-08-20T06:22:18.561842Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = border-right: solid 1px #333333;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--38a08d2d-2863-4552-bed9-53d9532b4a58",
+    "created": "2021-08-20T06:22:18.562183Z",
+    "modified": "2021-08-20T06:22:18.562183Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = padding: 3px 10px 0px 10px;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ba1c45da-b180-428f-a96b-1f47a2ef1606",
+    "created": "2021-08-20T06:22:18.562514Z",
+    "modified": "2021-08-20T06:22:18.562514Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = }]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ff116f31-53cf-4916-b240-7cabf1f90791",
+    "created": "2021-08-20T06:22:18.562945Z",
+    "modified": "2021-08-20T06:22:18.562945Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = div#wrap {]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8bf46b13-1ed0-479c-89f1-06cc25bb6778",
+    "created": "2021-08-20T06:22:18.563288Z",
+    "modified": "2021-08-20T06:22:18.563288Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = margin-top: 50px;]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b27bad0c-a28c-4a92-9a38-1391866ebe1f",
+    "created": "2021-08-20T06:22:18.563624Z",
+    "modified": "2021-08-20T06:22:18.563624Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = }]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e9c239ab-c968-4600-841d-57718fe30908",
+    "created": "2021-08-20T06:22:18.563994Z",
+    "modified": "2021-08-20T06:22:18.563994Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = </style>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--954bba56-63b5-4d0d-875a-9a2ec7d8b016",
+    "created": "2021-08-20T06:22:18.564299Z",
+    "modified": "2021-08-20T06:22:18.564299Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = </head>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d58f0987-35f2-4503-8a21-425d426804a1",
+    "created": "2021-08-20T06:22:18.564656Z",
+    "modified": "2021-08-20T06:22:18.564656Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <body>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--00a346b7-62ab-48d1-b238-239b4acde41d",
+    "created": "2021-08-20T06:22:18.56498Z",
+    "modified": "2021-08-20T06:22:18.56498Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <div id=\"wrap\">]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fe2854b4-c90c-40be-a1c2-94147db4cd78",
+    "created": "2021-08-20T06:22:18.565321Z",
+    "modified": "2021-08-20T06:22:18.565321Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <div class=\"band\"></div>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--42f7e891-0ecf-4ab5-84a4-1e8f82f68611",
+    "created": "2021-08-20T06:22:18.565641Z",
+    "modified": "2021-08-20T06:22:18.565641Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <div class=\"box\" style=\"word-wrap:break-word;\">]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--41e1e326-a8ec-45c8-9168-9fa30f397493",
+    "created": "2021-08-20T06:22:18.565973Z",
+    "modified": "2021-08-20T06:22:18.565973Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <p class=\"red\">Connection denied by Geolocation Setting.</p>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a8f2c4ba-a69f-454a-9512-753b233f1631",
+    "created": "2021-08-20T06:22:18.566317Z",
+    "modified": "2021-08-20T06:22:18.566317Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <p><b> Reason: </b> Blocked country: <font color=\"red\"> Germany </font> </p>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d77331e8-c808-4195-b5de-df06947f072c",
+    "created": "2021-08-20T06:22:18.566661Z",
+    "modified": "2021-08-20T06:22:18.566661Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <p>The connection was denied because this country is blocked in the Geolocation settings.</p>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--193ffb18-1072-4ff8-aee1-b2f308656bdf",
+    "created": "2021-08-20T06:22:18.567023Z",
+    "modified": "2021-08-20T06:22:18.567023Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <p>Please contact your administrator for assistance.</p>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--4558db13-39ca-4980-8101-ac62dc42c0c4",
+    "created": "2021-08-20T06:22:18.567469Z",
+    "modified": "2021-08-20T06:22:18.567469Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = </div>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--122c36b3-e6f2-4bb2-b825-64f0f7ee9e85",
+    "created": "2021-08-20T06:22:18.567805Z",
+    "modified": "2021-08-20T06:22:18.567805Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = <div class=\"band\">WatchGuard Technologies, Inc.</div>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3dabea1a-bc24-4368-949f-48b6726e6794",
+    "created": "2021-08-20T06:22:18.568139Z",
+    "modified": "2021-08-20T06:22:18.568139Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = </div>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--61eb6812-963c-43bd-b224-e0f2f1e85c57",
+    "created": "2021-08-20T06:22:18.568466Z",
+    "modified": "2021-08-20T06:22:18.568466Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = </body>]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b4eb8987-67b6-4f47-88ce-1e8715d5094b",
+    "created": "2021-08-20T06:22:18.568806Z",
+    "modified": "2021-08-20T06:22:18.568806Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "Compromised-Domains",
+    "indicator_types": [
+        "Intel::DOMAIN"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "Domain-Blacklist",
+    "pattern": "[domain:value = </html>]",
+    "pattern_type": "stix"
+},

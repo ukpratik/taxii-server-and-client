@@ -1,0 +1,4411 @@
+{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--267fd987-2b4a-422c-9b52-4862c07db15b",
+    "created": "2021-08-20T06:22:29.891799Z",
+    "modified": "2021-08-20T06:22:29.891799Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 67.213.75.205]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--752ee4f9-b6d7-4685-83a1-b50f0ecf0479",
+    "created": "2021-08-20T06:22:29.892137Z",
+    "modified": "2021-08-20T06:22:29.892137Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 51.178.161.32]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9f1fcf8c-d48b-4ec1-8c09-129890953f03",
+    "created": "2021-08-20T06:22:29.892439Z",
+    "modified": "2021-08-20T06:22:29.892439Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 162.144.127.197]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--cada3ed8-51c4-4c30-b623-59513f6d9f87",
+    "created": "2021-08-20T06:22:29.89274Z",
+    "modified": "2021-08-20T06:22:29.89274Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 111.230.104.169]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7e8e53f5-1c16-4a42-90de-4ca2af510ea9",
+    "created": "2021-08-20T06:22:29.893041Z",
+    "modified": "2021-08-20T06:22:29.893041Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 217.79.184.243]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f6c02c51-c17f-4a32-8780-2ab52c54d41f",
+    "created": "2021-08-20T06:22:29.893342Z",
+    "modified": "2021-08-20T06:22:29.893342Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 46.101.90.205]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a1e5d27b-918b-4edf-b5a0-2864237f2875",
+    "created": "2021-08-20T06:22:29.893642Z",
+    "modified": "2021-08-20T06:22:29.893642Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 123.206.58.135]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--21525f30-a8d4-4aeb-a43b-2384bce6d533",
+    "created": "2021-08-20T06:22:29.893943Z",
+    "modified": "2021-08-20T06:22:29.893943Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 78.47.139.43]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e0a13480-37d3-4fda-8b15-9399ad61413a",
+    "created": "2021-08-20T06:22:29.894261Z",
+    "modified": "2021-08-20T06:22:29.894261Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.40.116.68]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8dca3951-7120-4447-94df-b72e0826ec1a",
+    "created": "2021-08-20T06:22:29.894733Z",
+    "modified": "2021-08-20T06:22:29.894733Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.254.22.25]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e98a31b4-a8a5-4a57-8e5e-24bb65841172",
+    "created": "2021-08-20T06:22:29.895194Z",
+    "modified": "2021-08-20T06:22:29.895194Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 209.59.199.129]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d57e728a-67ee-491e-877c-ee25140c85e6",
+    "created": "2021-08-20T06:22:29.895734Z",
+    "modified": "2021-08-20T06:22:29.895734Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 54.38.143.246]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--adb343ab-a427-4b6f-9c3c-69cba8990f20",
+    "created": "2021-08-20T06:22:29.89615Z",
+    "modified": "2021-08-20T06:22:29.89615Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 153.122.13.133]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b7a50004-0903-479d-adbf-1fa67a8973db",
+    "created": "2021-08-20T06:22:29.896555Z",
+    "modified": "2021-08-20T06:22:29.896555Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 142.93.181.37]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--2af76301-642d-4b78-b458-e6954bd8b514",
+    "created": "2021-08-20T06:22:29.896958Z",
+    "modified": "2021-08-20T06:22:29.896958Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 92.38.128.47]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--76b4dfd6-7177-4954-967c-189abf886a62",
+    "created": "2021-08-20T06:22:29.89741Z",
+    "modified": "2021-08-20T06:22:29.89741Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 193.90.12.121]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ceeecce7-9476-4021-86c8-5a6f30f3d6ef",
+    "created": "2021-08-20T06:22:29.897821Z",
+    "modified": "2021-08-20T06:22:29.897821Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 175.126.167.148]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--dbf573d2-607f-4a9b-9663-8465cf1989fa",
+    "created": "2021-08-20T06:22:29.898237Z",
+    "modified": "2021-08-20T06:22:29.898237Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 185.59.223.86]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3be9235e-c96e-4ba4-a1b8-5ccefb31fafc",
+    "created": "2021-08-20T06:22:29.898672Z",
+    "modified": "2021-08-20T06:22:29.898672Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 52.73.70.149]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--775a0d5d-eeee-46fe-864e-3d04fc99618a",
+    "created": "2021-08-20T06:22:29.899116Z",
+    "modified": "2021-08-20T06:22:29.899116Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 36.89.191.119]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3cde5c39-1127-4a0f-8a1f-b1319bbbb5fb",
+    "created": "2021-08-20T06:22:29.899556Z",
+    "modified": "2021-08-20T06:22:29.899556Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.150.68.124]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f6f7f1ef-2d78-4ded-b5f7-6e9c1e9377a3",
+    "created": "2021-08-20T06:22:29.899988Z",
+    "modified": "2021-08-20T06:22:29.899988Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 23.160.193.106]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--4e43185d-35b0-4556-80d3-ad81f1848a65",
+    "created": "2021-08-20T06:22:29.900414Z",
+    "modified": "2021-08-20T06:22:29.900414Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 36.89.193.181]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5ee4bb26-bca7-4d56-b3db-184242ae0c42",
+    "created": "2021-08-20T06:22:29.900862Z",
+    "modified": "2021-08-20T06:22:29.900862Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 211.110.44.63]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--33fdb1a0-f831-48c3-8377-5d7888d546f0",
+    "created": "2021-08-20T06:22:29.901425Z",
+    "modified": "2021-08-20T06:22:29.901425Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.33.94.33]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a3b21fa3-f8a9-41d8-bde5-206338133890",
+    "created": "2021-08-20T06:22:29.90186Z",
+    "modified": "2021-08-20T06:22:29.90186Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 97.107.127.161]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a2c0e993-5177-4a9d-86ff-05b8639e2825",
+    "created": "2021-08-20T06:22:29.902323Z",
+    "modified": "2021-08-20T06:22:29.902323Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 158.69.118.130]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--631691e7-0fcb-4c54-8d3e-1d7a64616c6d",
+    "created": "2021-08-20T06:22:29.902759Z",
+    "modified": "2021-08-20T06:22:29.902759Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 142.44.247.57]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3a8f9efa-a0a5-43d2-b59e-f2b9878edfdb",
+    "created": "2021-08-20T06:22:29.903164Z",
+    "modified": "2021-08-20T06:22:29.903164Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 192.99.41.136]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fe31c7bf-5898-4755-9d1c-36b7f5a00724",
+    "created": "2021-08-20T06:22:29.903571Z",
+    "modified": "2021-08-20T06:22:29.903571Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 97.107.127.227]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--726f26d0-5c66-471a-9c74-a50c70b0c47a",
+    "created": "2021-08-20T06:22:29.903996Z",
+    "modified": "2021-08-20T06:22:29.903996Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 185.184.25.235]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ef280f65-8c17-4f95-a212-f172c49e2825",
+    "created": "2021-08-20T06:22:29.904433Z",
+    "modified": "2021-08-20T06:22:29.904433Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 177.87.0.7]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--6ecaa684-2be9-4d12-8d9b-7162eb4cfaf7",
+    "created": "2021-08-20T06:22:29.904844Z",
+    "modified": "2021-08-20T06:22:29.904844Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.234.248.154]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--51bc8ce0-fa44-4c50-9c91-ec321a317c8a",
+    "created": "2021-08-20T06:22:29.905255Z",
+    "modified": "2021-08-20T06:22:29.905255Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.201.134.202]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--adfd1677-6e0f-4dd5-a669-2bb9b49b3673",
+    "created": "2021-08-20T06:22:29.905693Z",
+    "modified": "2021-08-20T06:22:29.905693Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 159.224.167.102]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0d77ce89-c9a4-4522-93c7-e6b9dca12a75",
+    "created": "2021-08-20T06:22:29.906121Z",
+    "modified": "2021-08-20T06:22:29.906121Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.128.83.165]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a94d39e2-828d-4859-a963-61d7d478b6d5",
+    "created": "2021-08-20T06:22:29.906539Z",
+    "modified": "2021-08-20T06:22:29.906539Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 173.203.78.138]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1288a0d2-b55e-435b-abc3-847d3243f069",
+    "created": "2021-08-20T06:22:29.907072Z",
+    "modified": "2021-08-20T06:22:29.907072Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 185.234.72.84]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--4fc79a33-fcc8-4c0a-8a04-b4f9f43f340e",
+    "created": "2021-08-20T06:22:29.907521Z",
+    "modified": "2021-08-20T06:22:29.907521Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 198.1.115.153]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--afcf10fb-832f-42cc-b11c-708ecd8b2c43",
+    "created": "2021-08-20T06:22:29.907929Z",
+    "modified": "2021-08-20T06:22:29.907929Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 209.20.87.138]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--66eed223-132e-46ce-a240-c6c5dfbb9a33",
+    "created": "2021-08-20T06:22:29.908348Z",
+    "modified": "2021-08-20T06:22:29.908348Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 162.13.114.59]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5f56de3f-b43b-4e7c-b42c-010e23a2bf37",
+    "created": "2021-08-20T06:22:29.908757Z",
+    "modified": "2021-08-20T06:22:29.908757Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 37.187.115.122]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--495c881a-300a-46b2-85bb-abea9258efb9",
+    "created": "2021-08-20T06:22:29.909176Z",
+    "modified": "2021-08-20T06:22:29.909176Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 5.182.210.132]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e8dd3e9f-b197-4f37-8c23-0c5bb17e32ac",
+    "created": "2021-08-20T06:22:29.909639Z",
+    "modified": "2021-08-20T06:22:29.909639Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 209.151.236.42]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e940c3a6-1d86-41ac-b546-d3aae3d8335b",
+    "created": "2021-08-20T06:22:29.910059Z",
+    "modified": "2021-08-20T06:22:29.910059Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 121.199.35.69]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--04a7a073-9ba5-4093-89df-58cba1630d6c",
+    "created": "2021-08-20T06:22:29.910489Z",
+    "modified": "2021-08-20T06:22:29.910489Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 85.88.174.94]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--80b2bb71-1181-46c9-a890-f05807837c18",
+    "created": "2021-08-20T06:22:29.9109Z",
+    "modified": "2021-08-20T06:22:29.9109Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 37.247.35.137]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--45bc04d0-e8dd-458a-97af-d3001f16c03b",
+    "created": "2021-08-20T06:22:29.911316Z",
+    "modified": "2021-08-20T06:22:29.911316Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.73.102.174]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--4e7e3778-cc89-426b-b9ca-55a1b7cb06ac",
+    "created": "2021-08-20T06:22:29.911753Z",
+    "modified": "2021-08-20T06:22:29.911753Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 111.235.66.83]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--30b5e078-e0ae-4d12-9922-852791c455a1",
+    "created": "2021-08-20T06:22:29.912188Z",
+    "modified": "2021-08-20T06:22:29.912188Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 210.65.244.186]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--dddff20b-530b-44d6-a407-7f1ea5e998f1",
+    "created": "2021-08-20T06:22:29.91274Z",
+    "modified": "2021-08-20T06:22:29.91274Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 62.64.9.237]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d07999fd-b63c-4861-b2f0-6a999b4304a6",
+    "created": "2021-08-20T06:22:29.913165Z",
+    "modified": "2021-08-20T06:22:29.913165Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 94.74.133.76]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b7db0d04-5d59-4a65-b68f-316ba3a6ed89",
+    "created": "2021-08-20T06:22:29.913631Z",
+    "modified": "2021-08-20T06:22:29.913631Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 144.76.42.74]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d54695f8-1ebe-46ce-9ebf-676d27660bb2",
+    "created": "2021-08-20T06:22:29.914052Z",
+    "modified": "2021-08-20T06:22:29.914052Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 195.210.28.233]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--dd961e12-315e-4987-94cd-0feea82da08c",
+    "created": "2021-08-20T06:22:29.914474Z",
+    "modified": "2021-08-20T06:22:29.914474Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 5.182.210.254]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0d39952b-6a4c-4e18-970d-680034ca533c",
+    "created": "2021-08-20T06:22:29.914901Z",
+    "modified": "2021-08-20T06:22:29.914901Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 37.247.35.130]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--11ded2ba-d643-4dc3-ae12-996c3eb9150c",
+    "created": "2021-08-20T06:22:29.915346Z",
+    "modified": "2021-08-20T06:22:29.915346Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 216.177.161.118]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c53cd16e-3ce6-4bda-af4c-5c9af8b9c7ec",
+    "created": "2021-08-20T06:22:29.915771Z",
+    "modified": "2021-08-20T06:22:29.915771Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 108.55.14.158]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c2fb4e2e-3807-439a-bb25-2070c9eb9607",
+    "created": "2021-08-20T06:22:29.916163Z",
+    "modified": "2021-08-20T06:22:29.916163Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.110.14.43]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--29466fca-3e7c-4095-a07d-fcb69334c97b",
+    "created": "2021-08-20T06:22:29.916567Z",
+    "modified": "2021-08-20T06:22:29.916567Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 195.8.114.137]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5b80caf2-6912-41f4-8682-aa86f047daa4",
+    "created": "2021-08-20T06:22:29.916992Z",
+    "modified": "2021-08-20T06:22:29.916992Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 18.195.23.231]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--245b1b68-e200-40d6-bbfb-20739501e26c",
+    "created": "2021-08-20T06:22:29.917423Z",
+    "modified": "2021-08-20T06:22:29.917423Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 216.10.251.121]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a05b32ae-144b-4c2a-9811-ba6daaefe2f3",
+    "created": "2021-08-20T06:22:29.917853Z",
+    "modified": "2021-08-20T06:22:29.917853Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.58.56.12]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fd98f239-2fd1-44b4-a72b-a703713d81e4",
+    "created": "2021-08-20T06:22:29.918419Z",
+    "modified": "2021-08-20T06:22:29.918419Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 51.91.76.89]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e75c412a-59ba-49ac-ab28-854a0c5776cf",
+    "created": "2021-08-20T06:22:29.918852Z",
+    "modified": "2021-08-20T06:22:29.918852Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 185.148.168.220]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3a8014f3-5585-40df-ae68-f081ee145a29",
+    "created": "2021-08-20T06:22:29.919302Z",
+    "modified": "2021-08-20T06:22:29.919302Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 131.100.24.199]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--42c5e131-f816-4e17-88d2-0503c423ce1f",
+    "created": "2021-08-20T06:22:29.919664Z",
+    "modified": "2021-08-20T06:22:29.919664Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 94.28.78.200]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--51db39f2-425a-49b7-8ed2-90129be8a2c9",
+    "created": "2021-08-20T06:22:29.920013Z",
+    "modified": "2021-08-20T06:22:29.920013Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 181.143.251.154]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--96824fc0-d84d-4c17-b9ac-bd03a29ab274",
+    "created": "2021-08-20T06:22:29.920346Z",
+    "modified": "2021-08-20T06:22:29.920346Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 72.249.22.245]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c86876ce-3b2a-4534-b951-72bcfac11d7e",
+    "created": "2021-08-20T06:22:29.920687Z",
+    "modified": "2021-08-20T06:22:29.920687Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 87.97.178.92]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--64024c91-5811-4d43-a41c-aaac67bb897d",
+    "created": "2021-08-20T06:22:29.921008Z",
+    "modified": "2021-08-20T06:22:29.921008Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 185.148.168.25]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--510b34a9-d5e6-458b-9a39-364164b19d62",
+    "created": "2021-08-20T06:22:29.921354Z",
+    "modified": "2021-08-20T06:22:29.921354Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 51.91.156.39]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a83f59f3-bbeb-4481-9963-751081b3e381",
+    "created": "2021-08-20T06:22:29.921689Z",
+    "modified": "2021-08-20T06:22:29.921689Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 154.79.244.182]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fd76b1e4-83fc-4820-84ed-9f9cde2c063f",
+    "created": "2021-08-20T06:22:29.922023Z",
+    "modified": "2021-08-20T06:22:29.922023Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.134.47.166]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ca64e9eb-f545-4efa-99e1-8ce160bc826c",
+    "created": "2021-08-20T06:22:29.922445Z",
+    "modified": "2021-08-20T06:22:29.922445Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 154.79.245.158]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--35a6e88c-60dd-4ad8-bcf6-21f1863fe647",
+    "created": "2021-08-20T06:22:29.922892Z",
+    "modified": "2021-08-20T06:22:29.922892Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 154.79.251.172]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e8ac063f-c846-4c70-87c2-b80e4e0535e1",
+    "created": "2021-08-20T06:22:29.923365Z",
+    "modified": "2021-08-20T06:22:29.923365Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 158.181.179.229]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fcda0161-4f98-46e3-95c7-b8df877d4898",
+    "created": "2021-08-20T06:22:29.923683Z",
+    "modified": "2021-08-20T06:22:29.923683Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 195.9.232.252]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c9751653-4e4d-4ba4-ace5-ab41a7b1b2a9",
+    "created": "2021-08-20T06:22:29.924007Z",
+    "modified": "2021-08-20T06:22:29.924007Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 193.47.240.8]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f440fbcd-a394-4cbb-8104-cedf4a662d73",
+    "created": "2021-08-20T06:22:29.924313Z",
+    "modified": "2021-08-20T06:22:29.924313Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 153.126.165.175]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7666fcbd-acf4-4639-8ff0-77d6c5c3dba4",
+    "created": "2021-08-20T06:22:29.924614Z",
+    "modified": "2021-08-20T06:22:29.924614Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.254.33.197]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0726cfa2-06bc-4b60-b4bb-d03865199c10",
+    "created": "2021-08-20T06:22:29.924914Z",
+    "modified": "2021-08-20T06:22:29.924914Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.55.134.126]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--40446229-337f-4529-b4da-bec381581382",
+    "created": "2021-08-20T06:22:29.925216Z",
+    "modified": "2021-08-20T06:22:29.925216Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 210.65.244.176]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3e38dd11-eb70-4fac-b653-ced79ff5c0e8",
+    "created": "2021-08-20T06:22:29.925522Z",
+    "modified": "2021-08-20T06:22:29.925522Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 37.34.58.210]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--497e7e31-e483-48d5-9989-73d8ef8be8e6",
+    "created": "2021-08-20T06:22:29.925829Z",
+    "modified": "2021-08-20T06:22:29.925829Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 210.65.244.182]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--995b5c00-af47-40fc-a238-11d2f65b2793",
+    "created": "2021-08-20T06:22:29.92613Z",
+    "modified": "2021-08-20T06:22:29.92613Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 131.100.24.231]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--4c3873ae-417a-422f-9246-606789466327",
+    "created": "2021-08-20T06:22:29.926444Z",
+    "modified": "2021-08-20T06:22:29.926444Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 131.100.24.217]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--6ac26212-1ddf-4761-a234-711d59746b2d",
+    "created": "2021-08-20T06:22:29.926752Z",
+    "modified": "2021-08-20T06:22:29.926752Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.9.77.211]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1d7240db-b7b0-488a-9bac-cac245adc182",
+    "created": "2021-08-20T06:22:29.92706Z",
+    "modified": "2021-08-20T06:22:29.92706Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 94.247.168.64]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d9dc95e2-477c-48bd-8e89-de052646aca1",
+    "created": "2021-08-20T06:22:29.927469Z",
+    "modified": "2021-08-20T06:22:29.927469Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 162.144.76.184]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ae095103-9342-4ef8-bf09-b19859a9d903",
+    "created": "2021-08-20T06:22:29.927777Z",
+    "modified": "2021-08-20T06:22:29.927777Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 159.8.59.82]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--23813ca5-b279-4a9d-b25b-23644665eb3f",
+    "created": "2021-08-20T06:22:29.928115Z",
+    "modified": "2021-08-20T06:22:29.928115Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 66.113.160.126]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a9f0ec76-fc9c-4909-8709-80b450e4b430",
+    "created": "2021-08-20T06:22:29.928428Z",
+    "modified": "2021-08-20T06:22:29.928428Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 95.138.161.226]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--acc5f5ef-6775-4920-8f98-42a2bde97264",
+    "created": "2021-08-20T06:22:29.928731Z",
+    "modified": "2021-08-20T06:22:29.928731Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 43.229.206.212]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c9e1f1cb-9ec0-45b1-a1e3-93b6345c575f",
+    "created": "2021-08-20T06:22:29.929031Z",
+    "modified": "2021-08-20T06:22:29.929031Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 1.234.20.244]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ea6ca498-efe5-4fcc-8f8b-83d442c3e9ee",
+    "created": "2021-08-20T06:22:29.929347Z",
+    "modified": "2021-08-20T06:22:29.929347Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 180.250.21.2]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a6eff0d6-c334-4c5d-9bd4-ec3e938a0969",
+    "created": "2021-08-20T06:22:29.929652Z",
+    "modified": "2021-08-20T06:22:29.929652Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 1.234.21.73]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fea23750-51d1-4825-badc-749964f07918",
+    "created": "2021-08-20T06:22:29.929961Z",
+    "modified": "2021-08-20T06:22:29.929961Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.128.23.9]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--2dc5121e-f71b-449c-8226-f9f62e5be5f3",
+    "created": "2021-08-20T06:22:29.930269Z",
+    "modified": "2021-08-20T06:22:29.930269Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 192.163.233.216]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fe690d15-b3c2-4b2e-a419-ce9dbf7a8e92",
+    "created": "2021-08-20T06:22:29.930574Z",
+    "modified": "2021-08-20T06:22:29.930574Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 43.229.206.244]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8df220d5-0f5b-4e9f-b2d1-1a35144ed92e",
+    "created": "2021-08-20T06:22:29.930885Z",
+    "modified": "2021-08-20T06:22:29.930885Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 162.241.41.92]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--635251af-4836-48e9-a777-a624873be2e0",
+    "created": "2021-08-20T06:22:29.93119Z",
+    "modified": "2021-08-20T06:22:29.93119Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 210.65.244.187]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7f011691-1405-4735-8d9a-7b76848dcf98",
+    "created": "2021-08-20T06:22:29.931605Z",
+    "modified": "2021-08-20T06:22:29.931605Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.253.145.28]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8ce51fdb-89b2-4f9a-bde4-3ee025c52880",
+    "created": "2021-08-20T06:22:29.931915Z",
+    "modified": "2021-08-20T06:22:29.931915Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 180.250.21.5]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--45d3df1a-345b-4acf-9283-5b205ab1331d",
+    "created": "2021-08-20T06:22:29.932252Z",
+    "modified": "2021-08-20T06:22:29.932252Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 144.48.139.206]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f53ce3ad-7df2-4631-ba2d-cef826d6584f",
+    "created": "2021-08-20T06:22:29.932554Z",
+    "modified": "2021-08-20T06:22:29.932554Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 185.9.187.10]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b2c99e87-65c6-44d8-a0d1-37c67d40ad27",
+    "created": "2021-08-20T06:22:29.932858Z",
+    "modified": "2021-08-20T06:22:29.932858Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 14.241.244.60]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fd96618d-4a4a-4838-b0b1-fb1cb7f72ba0",
+    "created": "2021-08-20T06:22:29.933164Z",
+    "modified": "2021-08-20T06:22:29.933164Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.164.180.66]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5a74f5e7-069a-4fc5-949b-6fbd22b00963",
+    "created": "2021-08-20T06:22:29.933466Z",
+    "modified": "2021-08-20T06:22:29.933466Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 181.167.217.53]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--92d59afd-81b8-48f2-b97f-d700fd0d32e2",
+    "created": "2021-08-20T06:22:29.933772Z",
+    "modified": "2021-08-20T06:22:29.933772Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 186.97.172.178]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--de69b943-982f-4d0c-b82f-93cf3de52193",
+    "created": "2021-08-20T06:22:29.934077Z",
+    "modified": "2021-08-20T06:22:29.934077Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 177.67.137.111]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9e8c1d8f-ca9b-4711-b24b-73d964aa7d6d",
+    "created": "2021-08-20T06:22:29.934381Z",
+    "modified": "2021-08-20T06:22:29.934381Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 189.206.78.155]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--efdb768c-78b5-44ee-adf2-87b25ea6d993",
+    "created": "2021-08-20T06:22:29.934694Z",
+    "modified": "2021-08-20T06:22:29.934694Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 187.19.167.233]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f43ca689-61e1-40f7-b7a2-a8c3a4e40c53",
+    "created": "2021-08-20T06:22:29.935003Z",
+    "modified": "2021-08-20T06:22:29.935003Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 186.225.63.18]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--88ae1be5-696d-4a8d-b72d-e2b67a92fa80",
+    "created": "2021-08-20T06:22:29.935313Z",
+    "modified": "2021-08-20T06:22:29.935313Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 49.156.34.134]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--654dde65-a1ae-4d74-92cd-0735d6cbbdb3",
+    "created": "2021-08-20T06:22:29.93583Z",
+    "modified": "2021-08-20T06:22:29.93583Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 203.114.109.114]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--63b964ed-01db-4e07-bc37-53ddf2ecb91a",
+    "created": "2021-08-20T06:22:29.936201Z",
+    "modified": "2021-08-20T06:22:29.936201Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 190.109.204.126]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--bab2929a-51f1-460c-938b-f3c5273f7551",
+    "created": "2021-08-20T06:22:29.936513Z",
+    "modified": "2021-08-20T06:22:29.936513Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.124.145.98]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--bc3462fe-0666-471a-8556-37b5a1909fcc",
+    "created": "2021-08-20T06:22:29.936817Z",
+    "modified": "2021-08-20T06:22:29.936817Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 94.183.237.101]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--442e60bf-11fe-4b66-ab83-2f1e5a83cfab",
+    "created": "2021-08-20T06:22:29.937119Z",
+    "modified": "2021-08-20T06:22:29.937119Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 89.37.1.2]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--42fc16d9-fef8-4463-ae1f-69e30d18ca20",
+    "created": "2021-08-20T06:22:29.937417Z",
+    "modified": "2021-08-20T06:22:29.937417Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 46.209.140.220]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--2127b867-2c93-4f70-b018-f5ec5e40ee9e",
+    "created": "2021-08-20T06:22:29.937724Z",
+    "modified": "2021-08-20T06:22:29.937724Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 88.150.240.129]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8b5486de-aece-4aa0-9e44-c2de94dece78",
+    "created": "2021-08-20T06:22:29.938032Z",
+    "modified": "2021-08-20T06:22:29.938032Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.12.160.164]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--4bb977bc-64d1-44d2-ad1a-6e3c0c7a18d5",
+    "created": "2021-08-20T06:22:29.93834Z",
+    "modified": "2021-08-20T06:22:29.93834Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 91.83.88.122]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8a808ae0-2d2c-4f9a-9146-3f933ebad84b",
+    "created": "2021-08-20T06:22:29.93864Z",
+    "modified": "2021-08-20T06:22:29.93864Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 94.23.86.141]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--929a1412-f5c8-4aff-ae61-86d86b28b235",
+    "created": "2021-08-20T06:22:29.938939Z",
+    "modified": "2021-08-20T06:22:29.938939Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 162.214.188.105]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a5c9a401-0e9f-4b12-bdf6-b426b22bdebb",
+    "created": "2021-08-20T06:22:29.939239Z",
+    "modified": "2021-08-20T06:22:29.939239Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 162.214.106.107]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e0766004-8d86-4c32-b8a1-50d7cbaa034b",
+    "created": "2021-08-20T06:22:29.939538Z",
+    "modified": "2021-08-20T06:22:29.939538Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 51.77.82.110]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f255e37d-ccfb-427d-8faf-9871ab5e2b6f",
+    "created": "2021-08-20T06:22:29.939973Z",
+    "modified": "2021-08-20T06:22:29.939973Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 207.210.192.60]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--67089557-5d7b-4c6f-9777-5b76da267ab4",
+    "created": "2021-08-20T06:22:29.940295Z",
+    "modified": "2021-08-20T06:22:29.940295Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 116.212.152.225]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3316241b-2364-47a5-a6f9-83bb40be0f0e",
+    "created": "2021-08-20T06:22:29.940596Z",
+    "modified": "2021-08-20T06:22:29.940596Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.79.91.89]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--64765f13-db28-43a2-b838-021ea2647b1c",
+    "created": "2021-08-20T06:22:29.940897Z",
+    "modified": "2021-08-20T06:22:29.940897Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 199.204.214.52]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--59e77c74-53ba-45bf-a15c-6add1eee9e6c",
+    "created": "2021-08-20T06:22:29.941194Z",
+    "modified": "2021-08-20T06:22:29.941194Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 50.116.54.215]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8b27d9d9-526c-49bd-abdc-01db73a13739",
+    "created": "2021-08-20T06:22:29.941491Z",
+    "modified": "2021-08-20T06:22:29.941491Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 162.214.127.16]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a61798b0-ec5e-4e53-a759-fc44166f9e52",
+    "created": "2021-08-20T06:22:29.941797Z",
+    "modified": "2021-08-20T06:22:29.941797Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 177.154.161.246]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e73edca9-92db-4520-9500-81d7b77cf738",
+    "created": "2021-08-20T06:22:29.942166Z",
+    "modified": "2021-08-20T06:22:29.942166Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 91.235.129.8]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7073de51-38fd-4e22-8d45-fd32ab99270b",
+    "created": "2021-08-20T06:22:29.942625Z",
+    "modified": "2021-08-20T06:22:29.942625Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 181.112.157.42]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1ec792ba-5204-490d-af76-32bed10c87cd",
+    "created": "2021-08-20T06:22:29.943019Z",
+    "modified": "2021-08-20T06:22:29.943019Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 97.83.40.67]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3fd38177-3890-4397-a650-10626efbc31e",
+    "created": "2021-08-20T06:22:29.943374Z",
+    "modified": "2021-08-20T06:22:29.943374Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 139.59.59.242]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0da66c5b-9e1d-4f41-a252-7e9c50f336c8",
+    "created": "2021-08-20T06:22:29.94371Z",
+    "modified": "2021-08-20T06:22:29.94371Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 91.207.28.33]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fee13b11-66fb-4909-9d22-1fb193bd90a9",
+    "created": "2021-08-20T06:22:29.944054Z",
+    "modified": "2021-08-20T06:22:29.944054Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.128.197.110]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7743e95f-16a8-4525-9bd8-aee375b19d62",
+    "created": "2021-08-20T06:22:29.944511Z",
+    "modified": "2021-08-20T06:22:29.944511Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 91.191.172.124]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3f1e7b02-97fd-40a2-8c90-ac93f74b855f",
+    "created": "2021-08-20T06:22:29.944839Z",
+    "modified": "2021-08-20T06:22:29.944839Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 50.249.212.98]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--6d0faaef-324d-4a3d-a61a-7cbd91f858d1",
+    "created": "2021-08-20T06:22:29.945166Z",
+    "modified": "2021-08-20T06:22:29.945166Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 144.76.1.150]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--06c9cdc9-12af-4491-8e37-016983b02705",
+    "created": "2021-08-20T06:22:29.945503Z",
+    "modified": "2021-08-20T06:22:29.945503Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 104.168.154.79]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e91401ba-e256-45f0-b0ed-b61b62383d57",
+    "created": "2021-08-20T06:22:29.945841Z",
+    "modified": "2021-08-20T06:22:29.945841Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 148.235.154.164]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d833494a-29f5-4cf0-8ff0-9bcad133ed05",
+    "created": "2021-08-20T06:22:29.946181Z",
+    "modified": "2021-08-20T06:22:29.946181Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 190.145.83.98]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9b0b8735-4583-4e38-907b-a767947370ff",
+    "created": "2021-08-20T06:22:29.946509Z",
+    "modified": "2021-08-20T06:22:29.946509Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 41.77.185.182]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d6b451d8-7697-42db-ba1c-f9616b93443a",
+    "created": "2021-08-20T06:22:29.946827Z",
+    "modified": "2021-08-20T06:22:29.946827Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 203.176.138.46]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3d33e478-038e-42fc-8783-e19d5d681001",
+    "created": "2021-08-20T06:22:29.947173Z",
+    "modified": "2021-08-20T06:22:29.947173Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.79.150.86]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b3d34eeb-80fb-4e39-855a-88179399bf64",
+    "created": "2021-08-20T06:22:29.947506Z",
+    "modified": "2021-08-20T06:22:29.947506Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 41.57.156.203]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--563c0014-625f-4c3c-9220-e27915dfdb8e",
+    "created": "2021-08-20T06:22:29.94784Z",
+    "modified": "2021-08-20T06:22:29.94784Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 95.111.235.8]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--aff8c85b-9478-4a16-98a7-d05ef3c75fba",
+    "created": "2021-08-20T06:22:29.948197Z",
+    "modified": "2021-08-20T06:22:29.948197Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.42.57.18]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--eadaf618-e88e-49f0-b0d5-b33d435ed3ff",
+    "created": "2021-08-20T06:22:29.948537Z",
+    "modified": "2021-08-20T06:22:29.948537Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 115.68.220.48]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--27cd059d-cea0-4cc8-bcb8-01d751f5bd37",
+    "created": "2021-08-20T06:22:29.948988Z",
+    "modified": "2021-08-20T06:22:29.948988Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.201.136.3]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--111d2720-cd94-4cbc-b680-60f9cd65eaf8",
+    "created": "2021-08-20T06:22:29.949324Z",
+    "modified": "2021-08-20T06:22:29.949324Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 220.82.64.198]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--fe9b4ff5-24df-4747-8c89-a5f21d1e7c2a",
+    "created": "2021-08-20T06:22:29.949646Z",
+    "modified": "2021-08-20T06:22:29.949646Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 196.216.59.174]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9288948d-3e83-4906-8856-6477d3d7c227",
+    "created": "2021-08-20T06:22:29.949963Z",
+    "modified": "2021-08-20T06:22:29.949963Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 113.160.132.237]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c4de484b-c17b-408b-b2f5-eb07ece19819",
+    "created": "2021-08-20T06:22:29.950291Z",
+    "modified": "2021-08-20T06:22:29.950291Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 202.165.47.106]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--177c8afe-c013-42ef-b0c7-099d86e9f54d",
+    "created": "2021-08-20T06:22:29.950631Z",
+    "modified": "2021-08-20T06:22:29.950631Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 181.114.215.239]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3c141313-6b7a-47dd-91b5-e6886bc84a2b",
+    "created": "2021-08-20T06:22:29.950936Z",
+    "modified": "2021-08-20T06:22:29.950936Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 222.124.16.74]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--633cf2b7-c47d-490f-81e7-ddd60ef47b12",
+    "created": "2021-08-20T06:22:29.951271Z",
+    "modified": "2021-08-20T06:22:29.951271Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 186.225.119.170]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--6306d0bb-553b-4492-9dc2-d59d3f4c21f5",
+    "created": "2021-08-20T06:22:29.95161Z",
+    "modified": "2021-08-20T06:22:29.95161Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 200.236.218.62]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--cf357e92-19fb-4dc7-b873-13f88f6aef92",
+    "created": "2021-08-20T06:22:29.95195Z",
+    "modified": "2021-08-20T06:22:29.95195Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 49.248.217.170]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--6d426e7e-4449-4dae-8dc8-ddcf5db28e32",
+    "created": "2021-08-20T06:22:29.952314Z",
+    "modified": "2021-08-20T06:22:29.952314Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 119.202.8.249]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7927724c-d3a1-47d5-ba2f-b1b6f1e4a11e",
+    "created": "2021-08-20T06:22:29.952645Z",
+    "modified": "2021-08-20T06:22:29.952645Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.122.228.44]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ab4c1d57-055d-4928-b827-653d28e3c323",
+    "created": "2021-08-20T06:22:29.952983Z",
+    "modified": "2021-08-20T06:22:29.952983Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 38.110.100.104]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c7d5aade-da8c-4f0c-996c-700dd681a519",
+    "created": "2021-08-20T06:22:29.953445Z",
+    "modified": "2021-08-20T06:22:29.953445Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.36.99.184]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--21c4a45b-a8e8-4859-b64d-2719d74634cf",
+    "created": "2021-08-20T06:22:29.953791Z",
+    "modified": "2021-08-20T06:22:29.953791Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 24.162.214.166]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c3e4f260-d251-467f-ae06-58de21aa67b4",
+    "created": "2021-08-20T06:22:29.954137Z",
+    "modified": "2021-08-20T06:22:29.954137Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 184.74.99.214]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--4dddaf11-7442-4f5d-8349-5c71ec44ced0",
+    "created": "2021-08-20T06:22:29.954469Z",
+    "modified": "2021-08-20T06:22:29.954469Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 38.110.100.33]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ac6f0164-c4da-45fb-a572-5eb379676548",
+    "created": "2021-08-20T06:22:29.954804Z",
+    "modified": "2021-08-20T06:22:29.954804Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 170.238.117.187]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1809b004-70c8-4f0a-9068-5fb0d9ed3d5b",
+    "created": "2021-08-20T06:22:29.955141Z",
+    "modified": "2021-08-20T06:22:29.955141Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 5.34.74.210]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--93785799-2926-4598-ab5c-abbe32b892b6",
+    "created": "2021-08-20T06:22:29.955494Z",
+    "modified": "2021-08-20T06:22:29.955494Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 31.207.89.74]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--2fff47b8-c1e5-41ca-a742-ae691e43ba8d",
+    "created": "2021-08-20T06:22:29.955824Z",
+    "modified": "2021-08-20T06:22:29.955824Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 167.172.119.42]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c6da1485-8a85-42c3-822b-d31cbfb73c72",
+    "created": "2021-08-20T06:22:29.956208Z",
+    "modified": "2021-08-20T06:22:29.956208Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 50.116.23.195]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f4343739-69ba-464e-8abe-c8dee8115680",
+    "created": "2021-08-20T06:22:29.956566Z",
+    "modified": "2021-08-20T06:22:29.956566Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 190.197.55.254]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9c89aae7-a397-41c4-bac6-a88d27591b5c",
+    "created": "2021-08-20T06:22:29.956931Z",
+    "modified": "2021-08-20T06:22:29.956931Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 190.61.43.241]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1f4ff06d-2f9d-432a-9053-d02afa77aad6",
+    "created": "2021-08-20T06:22:29.9573Z",
+    "modified": "2021-08-20T06:22:29.9573Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 190.144.10.242]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9037fe7f-4a10-4904-9f20-770aa42f8e36",
+    "created": "2021-08-20T06:22:29.957628Z",
+    "modified": "2021-08-20T06:22:29.957628Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 142.4.219.173]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5c452cbc-2ab3-4d90-8983-baa3a474dd85",
+    "created": "2021-08-20T06:22:29.958129Z",
+    "modified": "2021-08-20T06:22:29.958129Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 104.168.155.129]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a628ca5a-5da1-46e7-92ba-11054bd99710",
+    "created": "2021-08-20T06:22:29.958495Z",
+    "modified": "2021-08-20T06:22:29.958495Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 176.31.117.84]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b4f2b6f9-8458-4663-8c61-85f211e4e8c5",
+    "created": "2021-08-20T06:22:29.958841Z",
+    "modified": "2021-08-20T06:22:29.958841Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 85.187.234.15]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3e6beabd-ff0e-4b4d-ab1f-5aca3f50537f",
+    "created": "2021-08-20T06:22:29.959163Z",
+    "modified": "2021-08-20T06:22:29.959163Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 204.138.26.220]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--82e6f840-0c4f-4966-87b8-c7b605241920",
+    "created": "2021-08-20T06:22:29.959475Z",
+    "modified": "2021-08-20T06:22:29.959475Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 182.253.106.35]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--68278f0e-fac0-44f0-a1fc-af3443770546",
+    "created": "2021-08-20T06:22:29.959788Z",
+    "modified": "2021-08-20T06:22:29.959788Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.79.147.66]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f300c8c1-8082-4925-b802-1fd3e2697e13",
+    "created": "2021-08-20T06:22:29.960148Z",
+    "modified": "2021-08-20T06:22:29.960148Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 54.191.98.150]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--58211e94-cc3f-47d4-bb8d-db9e1127c96c",
+    "created": "2021-08-20T06:22:29.96047Z",
+    "modified": "2021-08-20T06:22:29.96047Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 209.44.106.71]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--87f929c1-8179-4f1c-96e3-512ff7983e7c",
+    "created": "2021-08-20T06:22:29.960788Z",
+    "modified": "2021-08-20T06:22:29.960788Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 54.37.106.167]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--80f29353-d74f-404e-b071-1b85f90e500f",
+    "created": "2021-08-20T06:22:29.961103Z",
+    "modified": "2021-08-20T06:22:29.961103Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 207.58.132.19]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1a8f9cd2-bb21-433d-81c5-4b1b35f06e9f",
+    "created": "2021-08-20T06:22:29.961458Z",
+    "modified": "2021-08-20T06:22:29.961458Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 150.95.20.209]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b632c847-9bb2-48fd-bd62-abb088c12149",
+    "created": "2021-08-20T06:22:29.961777Z",
+    "modified": "2021-08-20T06:22:29.961777Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 164.68.126.207]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b693a655-24d2-4a5c-b3fc-ea168aacaad1",
+    "created": "2021-08-20T06:22:29.962106Z",
+    "modified": "2021-08-20T06:22:29.962106Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 37.59.103.148]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b98579dd-fd85-4432-ab2c-698a9355cf31",
+    "created": "2021-08-20T06:22:29.962586Z",
+    "modified": "2021-08-20T06:22:29.962586Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 43.229.206.214]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--79a21edb-3e3b-44cd-8ff3-3da430b31261",
+    "created": "2021-08-20T06:22:29.962935Z",
+    "modified": "2021-08-20T06:22:29.962935Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 79.143.186.143]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ba5b26c2-a36e-45c0-a9cb-7f8ce6746983",
+    "created": "2021-08-20T06:22:29.963309Z",
+    "modified": "2021-08-20T06:22:29.963309Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 195.9.84.106]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--92efc7ce-fa01-45ea-ad1c-bbf79002e8ed",
+    "created": "2021-08-20T06:22:29.96365Z",
+    "modified": "2021-08-20T06:22:29.96365Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 104.168.155.113]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5f05f4ce-e410-4b7f-b032-774b32aaeed8",
+    "created": "2021-08-20T06:22:29.964013Z",
+    "modified": "2021-08-20T06:22:29.964013Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 107.170.64.97]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--10f371a5-1c41-47a1-afe3-6b33c605fc70",
+    "created": "2021-08-20T06:22:29.964355Z",
+    "modified": "2021-08-20T06:22:29.964355Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 212.227.94.31]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ec2d3f48-346a-489f-ab41-57320a3d76ba",
+    "created": "2021-08-20T06:22:29.964702Z",
+    "modified": "2021-08-20T06:22:29.964702Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 66.175.217.172]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--128e5a4c-d0bc-4424-aefa-ddcea2a9fb39",
+    "created": "2021-08-20T06:22:29.965046Z",
+    "modified": "2021-08-20T06:22:29.965046Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 202.29.60.34]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e3a5b9cf-298f-419b-b830-af6442b27f8e",
+    "created": "2021-08-20T06:22:29.965395Z",
+    "modified": "2021-08-20T06:22:29.965395Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 78.46.78.42]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--10b37624-e91b-4a09-8860-b6aadb97819d",
+    "created": "2021-08-20T06:22:29.965729Z",
+    "modified": "2021-08-20T06:22:29.965729Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 79.172.201.113]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1d916bdb-460b-496f-a8ea-8be9af7de852",
+    "created": "2021-08-20T06:22:29.966065Z",
+    "modified": "2021-08-20T06:22:29.966065Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 114.207.112.77]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--2ad994ed-1d8d-42f1-845a-9a1ac995ca89",
+    "created": "2021-08-20T06:22:29.966402Z",
+    "modified": "2021-08-20T06:22:29.966402Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 81.0.236.93]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3cec805d-cc65-4a14-b9ae-57403517c518",
+    "created": "2021-08-20T06:22:29.966745Z",
+    "modified": "2021-08-20T06:22:29.966745Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.238.236.59]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--792a4bf6-7155-4fb9-b247-12708f7c8f7c",
+    "created": "2021-08-20T06:22:29.967207Z",
+    "modified": "2021-08-20T06:22:29.967207Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 104.245.52.73]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--435bd5d5-c43d-4c95-a0cf-d057aa84a6fe",
+    "created": "2021-08-20T06:22:29.967567Z",
+    "modified": "2021-08-20T06:22:29.967567Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 109.104.92.237]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ba3eef95-2898-4f05-8ce1-96adf4509ee2",
+    "created": "2021-08-20T06:22:29.967917Z",
+    "modified": "2021-08-20T06:22:29.967917Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 162.243.96.221]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--accc8a98-5d26-48ac-aad3-22bf2247115c",
+    "created": "2021-08-20T06:22:29.968294Z",
+    "modified": "2021-08-20T06:22:29.968294Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.33.158.180]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a6593dba-e19e-4ab2-b43b-c51867668fac",
+    "created": "2021-08-20T06:22:29.968636Z",
+    "modified": "2021-08-20T06:22:29.968636Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 109.74.50.71]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c3bc0cb7-cabe-4391-9a45-77c157bd482a",
+    "created": "2021-08-20T06:22:29.968961Z",
+    "modified": "2021-08-20T06:22:29.968961Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 177.185.32.10]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3d867e42-bed6-4334-8480-bcefb7555f94",
+    "created": "2021-08-20T06:22:29.969302Z",
+    "modified": "2021-08-20T06:22:29.969302Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 68.183.216.174]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d6506e79-9fa1-4752-b330-983062bc34de",
+    "created": "2021-08-20T06:22:29.969651Z",
+    "modified": "2021-08-20T06:22:29.969651Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 139.162.202.74]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7893fcfe-e470-4f0c-b9ac-2d2df843ef42",
+    "created": "2021-08-20T06:22:29.969992Z",
+    "modified": "2021-08-20T06:22:29.969992Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.79.33.48]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c5d9ea35-ff50-49a6-a8b3-5e4c06ca166a",
+    "created": "2021-08-20T06:22:29.970342Z",
+    "modified": "2021-08-20T06:22:29.970342Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 104.248.178.90]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a4eae5e8-b3d7-44af-a617-efd682190523",
+    "created": "2021-08-20T06:22:29.970679Z",
+    "modified": "2021-08-20T06:22:29.970679Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 46.55.222.10]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--babce656-784b-4689-905b-9108168c0409",
+    "created": "2021-08-20T06:22:29.971018Z",
+    "modified": "2021-08-20T06:22:29.971018Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 173.212.243.155]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8429a29f-1192-46c2-a8bd-c815f10523f3",
+    "created": "2021-08-20T06:22:29.971371Z",
+    "modified": "2021-08-20T06:22:29.971371Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 177.75.5.222]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e350cf74-02b5-4d65-a581-fb8cb09c1ec8",
+    "created": "2021-08-20T06:22:29.971849Z",
+    "modified": "2021-08-20T06:22:29.971849Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 105.27.205.34]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--662c07f2-ec7a-415b-bc70-6f791f53412b",
+    "created": "2021-08-20T06:22:29.972231Z",
+    "modified": "2021-08-20T06:22:29.972231Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 5.152.175.57]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f2c7f00a-9318-4a70-8bab-4678edf590ed",
+    "created": "2021-08-20T06:22:29.972603Z",
+    "modified": "2021-08-20T06:22:29.972603Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 181.129.167.82]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--22030a81-a803-4e96-97bd-30613a6ca10e",
+    "created": "2021-08-20T06:22:29.972971Z",
+    "modified": "2021-08-20T06:22:29.972971Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 62.99.79.77]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--1b1e283c-62e9-474a-803a-965b61dcb543",
+    "created": "2021-08-20T06:22:29.973313Z",
+    "modified": "2021-08-20T06:22:29.973313Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 128.201.76.252]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5d2de12d-0dc3-41bd-9bc8-9aea208d596a",
+    "created": "2021-08-20T06:22:29.973674Z",
+    "modified": "2021-08-20T06:22:29.973674Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 221.147.172.5]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--2e2717db-4093-436d-be10-be165a8cb138",
+    "created": "2021-08-20T06:22:29.974033Z",
+    "modified": "2021-08-20T06:22:29.974033Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 196.216.220.211]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--496e42c8-7fc4-4100-8792-35167c430729",
+    "created": "2021-08-20T06:22:29.974387Z",
+    "modified": "2021-08-20T06:22:29.974387Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 36.67.97.127]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7925c622-12f1-4114-a9a6-6ff1f2c17906",
+    "created": "2021-08-20T06:22:29.97473Z",
+    "modified": "2021-08-20T06:22:29.97473Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.238.203.82]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8fb8f036-14fb-40b6-8eba-f1a4c70543fa",
+    "created": "2021-08-20T06:22:29.975093Z",
+    "modified": "2021-08-20T06:22:29.975093Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 177.52.173.20]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b676d9e3-9b3c-45e2-ae3b-fd2ba501a91a",
+    "created": "2021-08-20T06:22:29.975441Z",
+    "modified": "2021-08-20T06:22:29.975441Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 166.62.103.55]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f5523928-576b-40eb-a627-be6f70b34b20",
+    "created": "2021-08-20T06:22:29.975783Z",
+    "modified": "2021-08-20T06:22:29.975783Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.140.207.110]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b6396b29-46f8-4097-8946-0e36429f18ba",
+    "created": "2021-08-20T06:22:29.976131Z",
+    "modified": "2021-08-20T06:22:29.976131Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 197.156.129.250]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d710bd68-e4bd-4431-8f67-d85b33d32192",
+    "created": "2021-08-20T06:22:29.976598Z",
+    "modified": "2021-08-20T06:22:29.976598Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 116.203.25.236]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0ea477af-3be9-450b-b3f8-38a05d5a7a54",
+    "created": "2021-08-20T06:22:29.976949Z",
+    "modified": "2021-08-20T06:22:29.976949Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.109.247.13]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f71f17f5-45b3-4c21-8666-9c6aa3914bc2",
+    "created": "2021-08-20T06:22:29.977288Z",
+    "modified": "2021-08-20T06:22:29.977288Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.253.107.156]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--042c33a8-7ae4-44f0-94e7-c6148eb4b43d",
+    "created": "2021-08-20T06:22:29.977622Z",
+    "modified": "2021-08-20T06:22:29.977622Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 36.89.98.183]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8de6c3c4-82a4-4dd7-9b85-2fecb2ca7fe9",
+    "created": "2021-08-20T06:22:29.977977Z",
+    "modified": "2021-08-20T06:22:29.977977Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 88.87.15.96]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--214709f8-498b-42f3-b3ee-0aca3f109999",
+    "created": "2021-08-20T06:22:29.978328Z",
+    "modified": "2021-08-20T06:22:29.978328Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.239.233.109]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--30c18bb8-de23-4300-af75-858d450cd8e8",
+    "created": "2021-08-20T06:22:29.978692Z",
+    "modified": "2021-08-20T06:22:29.978692Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 106.243.129.116]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--48ca62e2-4879-4f0d-bca3-b30638488783",
+    "created": "2021-08-20T06:22:29.979042Z",
+    "modified": "2021-08-20T06:22:29.979042Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 59.4.68.75]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--bc86c8cc-acb6-4062-a4e0-0eeb340824f6",
+    "created": "2021-08-20T06:22:29.979385Z",
+    "modified": "2021-08-20T06:22:29.979385Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 185.164.32.148]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--17aaa843-3d3f-48d7-84e9-2a50ecfa7d72",
+    "created": "2021-08-20T06:22:29.979732Z",
+    "modified": "2021-08-20T06:22:29.979732Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 46.99.175.149]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9f16c5ef-4ede-46e1-81ac-be0bf484f604",
+    "created": "2021-08-20T06:22:29.980094Z",
+    "modified": "2021-08-20T06:22:29.980094Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 46.99.175.217]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--5062efb5-0c2f-4f94-9aff-7d89eb7a773c",
+    "created": "2021-08-20T06:22:29.980439Z",
+    "modified": "2021-08-20T06:22:29.980439Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 46.99.188.223]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--2cd39b7b-0cfb-4e40-b9a8-eb2a388f72e4",
+    "created": "2021-08-20T06:22:29.980812Z",
+    "modified": "2021-08-20T06:22:29.980812Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 185.56.175.122]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--bdeb271d-35f0-401a-9044-7103427b056f",
+    "created": "2021-08-20T06:22:29.981278Z",
+    "modified": "2021-08-20T06:22:29.981278Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 179.189.229.254]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--dfc98a01-5a25-4c02-bdc0-809ecaacece9",
+    "created": "2021-08-20T06:22:29.981613Z",
+    "modified": "2021-08-20T06:22:29.981613Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 65.152.201.203]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a9c0c635-598c-485e-8a24-5aac02931aee",
+    "created": "2021-08-20T06:22:29.981972Z",
+    "modified": "2021-08-20T06:22:29.981972Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 216.166.148.187]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--58276610-5607-4955-b2fb-bbd17762e205",
+    "created": "2021-08-20T06:22:29.982318Z",
+    "modified": "2021-08-20T06:22:29.982318Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 182.253.210.130]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e0cc2b76-aa81-492e-ba67-a299acb845cf",
+    "created": "2021-08-20T06:22:29.982664Z",
+    "modified": "2021-08-20T06:22:29.982664Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 186.235.48.8]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7e55118c-9bca-4a86-aeb7-63499f52c705",
+    "created": "2021-08-20T06:22:29.98303Z",
+    "modified": "2021-08-20T06:22:29.98303Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 113.160.37.196]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--747c75d1-6b0a-4071-becf-377d6001be9a",
+    "created": "2021-08-20T06:22:29.983372Z",
+    "modified": "2021-08-20T06:22:29.983372Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 137.74.112.43]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9c10c340-728a-4a38-8073-662710f67c85",
+    "created": "2021-08-20T06:22:29.983708Z",
+    "modified": "2021-08-20T06:22:29.983708Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 216.108.227.55]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f4ba9e8f-6e9a-4f32-a754-b585e1b59c11",
+    "created": "2021-08-20T06:22:29.984044Z",
+    "modified": "2021-08-20T06:22:29.984044Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 94.177.176.51]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c2d06985-056c-4577-85ef-37ada2014d95",
+    "created": "2021-08-20T06:22:29.984374Z",
+    "modified": "2021-08-20T06:22:29.984374Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 24.28.12.23]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--94e09cc7-0e92-4e76-855a-a88cda461b62",
+    "created": "2021-08-20T06:22:29.984731Z",
+    "modified": "2021-08-20T06:22:29.984731Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 139.59.124.65]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--85c1004e-91da-4b74-8204-ced30d017f8d",
+    "created": "2021-08-20T06:22:29.985071Z",
+    "modified": "2021-08-20T06:22:29.985071Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 138.121.91.136]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--4fe239f4-66fc-4650-bc8a-d7c559f53330",
+    "created": "2021-08-20T06:22:29.985432Z",
+    "modified": "2021-08-20T06:22:29.985432Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.253.107.155]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f442e201-2930-4b6b-9fbf-47dc9f69cede",
+    "created": "2021-08-20T06:22:29.985941Z",
+    "modified": "2021-08-20T06:22:29.985941Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 147.91.31.1]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9cb8a8e4-f57c-4eaf-97df-74926ea08a14",
+    "created": "2021-08-20T06:22:29.986282Z",
+    "modified": "2021-08-20T06:22:29.986282Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 176.9.89.122]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0c4e201a-07c0-419b-a7b9-2c1fe4dd4124",
+    "created": "2021-08-20T06:22:29.986643Z",
+    "modified": "2021-08-20T06:22:29.986643Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 158.106.98.110]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--69f2e6a6-29ee-46c2-a1fa-d2c4c8c4945c",
+    "created": "2021-08-20T06:22:29.986984Z",
+    "modified": "2021-08-20T06:22:29.986984Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 149.210.181.82]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--32eeb3c7-dc2e-4a32-98f0-b3f7e77bce1f",
+    "created": "2021-08-20T06:22:29.987319Z",
+    "modified": "2021-08-20T06:22:29.987319Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 178.33.13.40]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7398cbe3-7685-48be-bc41-a49c35ce25a9",
+    "created": "2021-08-20T06:22:29.987657Z",
+    "modified": "2021-08-20T06:22:29.987657Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 36.66.188.251]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--9da83844-23a6-4e5e-a6df-6a998c0a29ab",
+    "created": "2021-08-20T06:22:29.988008Z",
+    "modified": "2021-08-20T06:22:29.988008Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.30.247.115]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--09fb2288-8e83-4ef5-83e9-7e0154fd0fc6",
+    "created": "2021-08-20T06:22:29.988358Z",
+    "modified": "2021-08-20T06:22:29.988358Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 190.93.208.53]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--6bf316ae-1e2c-49d1-809a-9e55b25c43e0",
+    "created": "2021-08-20T06:22:29.988702Z",
+    "modified": "2021-08-20T06:22:29.988702Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 38.110.100.64]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--f91e8fa7-61ef-4baf-b4a2-0d8ee2b8a1e8",
+    "created": "2021-08-20T06:22:29.989039Z",
+    "modified": "2021-08-20T06:22:29.989039Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 38.110.100.219]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--02df50a7-819b-4c03-b4c3-c3183ba3250b",
+    "created": "2021-08-20T06:22:29.989381Z",
+    "modified": "2021-08-20T06:22:29.989381Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 96.9.77.56]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--8f717634-f464-4af2-b372-6e796353635c",
+    "created": "2021-08-20T06:22:29.989725Z",
+    "modified": "2021-08-20T06:22:29.989725Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.75.201.2]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3f9e61be-d501-4077-84ad-f3f1bcc5c7ed",
+    "created": "2021-08-20T06:22:29.990064Z",
+    "modified": "2021-08-20T06:22:29.990064Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 165.22.28.242]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--61db7101-5e36-4aa2-b946-c28c67706c22",
+    "created": "2021-08-20T06:22:29.990638Z",
+    "modified": "2021-08-20T06:22:29.990638Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 118.42.135.173]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--ffd7a1af-18a2-4a8a-b575-f19594c65607",
+    "created": "2021-08-20T06:22:29.990979Z",
+    "modified": "2021-08-20T06:22:29.990979Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 79.106.115.107]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--30e50337-5fe2-4122-b722-1b23412a8f8e",
+    "created": "2021-08-20T06:22:29.991313Z",
+    "modified": "2021-08-20T06:22:29.991313Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.248.217.234]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--47fc386a-62d2-4948-a956-aee56e2f5f7e",
+    "created": "2021-08-20T06:22:29.991635Z",
+    "modified": "2021-08-20T06:22:29.991635Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 43.252.158.104]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--65936e21-a427-4c73-833f-31933b48bc32",
+    "created": "2021-08-20T06:22:29.99203Z",
+    "modified": "2021-08-20T06:22:29.99203Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 75.176.235.182]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7801ddd8-b49a-44c5-88ee-d6395804b1b2",
+    "created": "2021-08-20T06:22:29.992531Z",
+    "modified": "2021-08-20T06:22:29.992531Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 125.234.128.250]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--12428b88-5290-48c8-b58e-608d35c2c081",
+    "created": "2021-08-20T06:22:29.992913Z",
+    "modified": "2021-08-20T06:22:29.992913Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 87.98.128.76]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0b543235-e492-456c-a128-b16a47098acd",
+    "created": "2021-08-20T06:22:29.99323Z",
+    "modified": "2021-08-20T06:22:29.99323Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 80.241.218.90]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--a45dc662-faa8-4225-8435-b2c0a5c73a69",
+    "created": "2021-08-20T06:22:29.993546Z",
+    "modified": "2021-08-20T06:22:29.993546Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.161.172.109]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--b3a47d52-0b60-4bc0-b45b-7ae8c32f5e59",
+    "created": "2021-08-20T06:22:29.993857Z",
+    "modified": "2021-08-20T06:22:29.993857Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 78.111.121.2]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--510ec62a-5964-4037-8ec8-8f943423f0c2",
+    "created": "2021-08-20T06:22:29.994165Z",
+    "modified": "2021-08-20T06:22:29.994165Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 168.205.192.71]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--220bf494-ec8b-42fe-adc6-1d967ad6d29a",
+    "created": "2021-08-20T06:22:29.994471Z",
+    "modified": "2021-08-20T06:22:29.994471Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 201.174.75.107]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7d22dd7c-2989-4c62-b51e-4fa68ef4b28e",
+    "created": "2021-08-20T06:22:29.99478Z",
+    "modified": "2021-08-20T06:22:29.99478Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 201.174.52.20]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--c454b6a9-4961-4e2a-8e0d-55982da852e5",
+    "created": "2021-08-20T06:22:29.995215Z",
+    "modified": "2021-08-20T06:22:29.995215Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.7.132.229]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--7b3e444e-0d85-4891-8e9a-1e2bffe1efff",
+    "created": "2021-08-20T06:22:29.99553Z",
+    "modified": "2021-08-20T06:22:29.99553Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 45.40.132.219]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--e0e95a6d-2d3d-48e4-8d03-eb81dada195b",
+    "created": "2021-08-20T06:22:29.995837Z",
+    "modified": "2021-08-20T06:22:29.995837Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 190.183.237.119]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--0f87f9ab-44d1-478f-8bac-0c93bd5e4a5a",
+    "created": "2021-08-20T06:22:29.996159Z",
+    "modified": "2021-08-20T06:22:29.996159Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.253.107.198]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--25245b74-1bea-45c7-ac6b-6579afffbe30",
+    "created": "2021-08-20T06:22:29.99647Z",
+    "modified": "2021-08-20T06:22:29.99647Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 172.104.58.76]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--3e66ad2d-7236-496e-88e3-52a57b6e311d",
+    "created": "2021-08-20T06:22:29.99678Z",
+    "modified": "2021-08-20T06:22:29.99678Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 204.174.223.210]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--412bb529-0496-4e7d-8112-1fa9de2a6f66",
+    "created": "2021-08-20T06:22:29.997091Z",
+    "modified": "2021-08-20T06:22:29.997091Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 51.91.105.97]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--82b13d24-d1f5-4acc-b02f-10fd1f81e60b",
+    "created": "2021-08-20T06:22:29.997395Z",
+    "modified": "2021-08-20T06:22:29.997395Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 134.209.182.12]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--11ee95b7-9e09-42ba-ba09-abd5821c2a87",
+    "created": "2021-08-20T06:22:29.997716Z",
+    "modified": "2021-08-20T06:22:29.997716Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 188.40.100.254]",
+    "pattern_type": "stix"
+},{
+    "type": "identity",
+    "spec_version": "2.1",
+    "id": "identity--d1e8a2d0-ea24-4b28-8fb7-21f01a502d9e",
+    "created": "2021-08-20T06:22:29.998028Z",
+    "modified": "2021-08-20T06:22:29.998028Z",
+    "name": "Malicious site hosting or downloader",
+    "description": "BOTNET",
+    "indicator_types": [
+        "Intel::ADDR"
+    ],
+    "meta_do_notice": "F",
+    "meta_source": "ABUSE-CH",
+    "pattern": "[domain:value = 103.109.247.9]",
+    "pattern_type": "stix"
+},
