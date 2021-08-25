@@ -1,0 +1,59 @@
+#fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<head>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<title>Connection denied by Geolocation</title>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<style type="text/css">	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+body {	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+font-family: Arial, Helvetica, Verdana, Sans-Serif;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+font-size: small;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+font-weight: normal;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+color: #000000;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+}	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+div {	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+margin-left: auto;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+margin-right: auto;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+text-align: center;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+}	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+.box {	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+width: 601px;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+background-color: #F2F2F2;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+border-left: solid 1px #C2C2C2;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+border-right: solid 1px #C2C2C2;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+vertical-align: middle;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+padding: 20px 10px 20px 10px;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+}	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+p {	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+text-align: left;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+}	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+.red {	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+font-weight: bold;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+color: Red;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+text-align: center;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+}	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+.band {	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+height: 20px;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+color: White;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+background: #333333;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+width: 600px;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+border-left: solid 1px #333333;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+border-right: solid 1px #333333;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+padding: 3px 10px 0px 10px;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+}	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+div#wrap {	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+margin-top: 50px;	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+}	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+</style>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+</head>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<body>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<div id="wrap">	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<div class="band"></div>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<div class="box" style="word-wrap:break-word;">	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<p class="red">Connection denied by Geolocation Setting.</p>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<p><b> Reason: </b> Blocked country: <font color="red"> Germany </font> </p>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<p>The connection was denied because this country is blocked in the Geolocation settings.</p>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<p>Please contact your administrator for assistance.</p>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+</div>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+<div class="band">WatchGuard Technologies, Inc.</div>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+</div>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+</body>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
+</html>	Intel::DOMAIN	Domain-Blacklist	F	Compromised-Domains
